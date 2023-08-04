@@ -1,0 +1,45 @@
+N
+Move (0,0)
+Line to (74.9, 0)
+Line to (200.66, 147.21)
+Line to (200.66, 0)
+Line to (274.81, 121.88)
+Line to (200.66, 244.57)
+Line to (74.9, 97.48)
+Line to (74.9, 244.57)
+Line to (0, 244.57)
+Line to (0, 0)
+Close Path.
+
+X
+Move to (218.86, 0)
+Line to (307.51, 0)
+Line to (357.78, 80.51)
+Line to (408.13, 0)
+Line to (495.97, 0)
+Line to (422.57, 121.88)
+Line to (495.97, 244.57)
+Line to (408.13, 244.57)
+Line to (357.78, 165.0399)
+Line to (307.51, 244.57)
+Line to (218.86, 244.57)
+Line to (292.31, 121.88)
+Line to (218.86, 0)
+Close path
+
+P
+Move to: (514.92, 0)
+Line to: (648.62, 0)
+Cubic Curve to: (648.62, 191.07), a cubic curve has 2 control points, c1 (740.62, 0) and c2 (740.62, 191.07)
+Line to: (514.92, 191.07)
+Line To: (514.92, 244.57)
+Line To: (440.06, 121.88)
+Line to: (514.92, 0)
+
+Move to: (514.92, 61.14)
+Line to: (613.96, 61.14)
+Cubic Curve to: (613.96. 130.44) with control points on (639.4, 61.14) and (639.4, 130.44)
+Line To: (514.92, 130.44)
+Line To: (514.92, 61.14)
+
+Close Path

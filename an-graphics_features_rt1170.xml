@@ -1,0 +1,21 @@
+<data:item xmlns:data="data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="data ../../xsd/alp.xsd" id="an-graphics_features_rt1170" type="app_note" format="projectfile" name="graphics_features_rt1170">
+    <overview>
+        <![CDATA[This application note gives a brief overview of each one of the graphics engines (PxP, GPU2D, and LCDIFv2) how to initialize them, use them independently, and finally, it introduces a use case on how to use them in unison to get a performance and resource boost. Each stage has an associated software project to make things easier.]]>
+    </overview>
+    <toolchains>
+        <toolchain name="iar"></toolchain>
+    </toolchains>
+    <families>
+        <family name="imxrt"></family>
+    </families>
+    <nxp_compatible_hw>
+        <hw id="MIMXRT1170-EVK"></hw>
+        <hw id="MIMXRT1170-EVKB"></hw>
+    </nxp_compatible_hw>
+    <peripherals>
+        <peripheral name="display"></peripheral>
+    </peripherals>
+    <categories>
+        <category name="graphics"></category>
+    </categories>
+</data:item>
