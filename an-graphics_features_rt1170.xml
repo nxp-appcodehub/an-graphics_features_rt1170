@@ -1,4 +1,7 @@
 <data:item xmlns:data="data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="data ../../xsd/alp.xsd" id="an-graphics_features_rt1170" type="app_note" format="projectfile" name="graphics_features_rt1170">
+    <display_title>
+        AN13075:i.MX RT1170 heterogeneous graphics pipeline
+    </display_title>
     <overview>
         <![CDATA[This application note gives a brief overview of each one of the graphics engines (PxP, GPU2D, and LCDIFv2) how to initialize them, use them independently, and finally, it introduces a use case on how to use them in unison to get a performance and resource boost. Each stage has an associated software project to make things easier.]]>
     </overview>
